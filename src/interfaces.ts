@@ -1,4 +1,4 @@
-
+//interfaces - development tool
 // type AddFn = (a: number, b: number) => number;
 interface AddFn { // custom function type
     (a: number, b: number): number;
