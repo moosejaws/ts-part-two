@@ -106,3 +106,4 @@ function moveAnimal(animal: Animal){
 }
 
 moveAnimal({type: 'bird', flyingSpeed: 10}); 
+
