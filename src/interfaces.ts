@@ -35,10 +35,10 @@ class Person implements Greetable {
 
 let user1: Greetable; 
 
-user1 = new Person('Max');
+// user1 = new Person('Max');
 
-user1.greet('Hi there - I am');
-console.log(user1);
+// user1.greet('Hi there - I am');
+// console.log(user1);
 
 //class implements interface, forces the existence of interface method
 
